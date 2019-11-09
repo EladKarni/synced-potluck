@@ -1,0 +1,6 @@
+.bottom-navigation {
+    background: red;
+    position: fixed;
+    bottom: 0;
+    width: 100vw;
+}
