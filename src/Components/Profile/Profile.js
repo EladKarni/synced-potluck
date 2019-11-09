@@ -1,12 +1,10 @@
 import React from 'react'
 import './Profile.css'
 
-const Events = () => (
+const Profile = () => (
   <div className="App-header">
-    <p>
-            loremep
-    </p>
+    <h1>Profile</h1>
   </div>
 )
 
-export default Events
+export default Profile
